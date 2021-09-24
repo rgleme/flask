@@ -1,0 +1,5 @@
+Flask==2.0.1
+flask-pydantic-spec==0.1.5
+tinydb==4.5.2
+pydantic==1.8.2
+typing==3.7.4.3
